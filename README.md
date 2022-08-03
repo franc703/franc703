@@ -1,5 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/49168245/182652219-4bca2f14-43ee-4986-9972-985438654198.png)
-## Ph.D. candidate at the University of Minnesota in Applied Economics. 
+## Ph.D. candidate in Applied Economics at the University of Minnesota 
 
 # My research focuses on:
 
