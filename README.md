@@ -18,11 +18,17 @@ I am a Ph.D. candidate at the University of Minnesota in Applied Economics.
 - Industrial Organization
 - Structural modelling
 
-I'm currently working as a graduate research assistant for Elizabeth Davis (University of Minnesota) and Aaron Sojourner (UPJOHN Institute)
+# Currently:
 
-Contact me rodrigofranco@rodrigofrancor.com
+Graduate research assistant for Elizabeth Davis (University of Minnesota) and Aaron Sojourner (UPJOHN Institute)
 
-Website: www.rodrigofrancor.com
+# Contact me:
+
+rodrigofranco@rodrigofrancor.com
+
+# Website: 
+
+www.rodrigofrancor.com
 
 ---
 
