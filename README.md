@@ -1,19 +1,19 @@
 ![banner](https://user-images.githubusercontent.com/49168245/182652219-4bca2f14-43ee-4986-9972-985438654198.png)
 I am a Ph.D. candidate at the University of Minnesota in Applied Economics. 
 
-My research focuses on:
+# My research focuses on:
 
 - How policy changes in childcare affect childcare labor markets
 - What roles play minimum wages in the childcare market
 
-I'm insterested in:
+# I'm insterested in:
 
 - Causal inference
 - Econometrics
 - Economic modeling
 - Machine Learning
 
-Learning:
+# Learning:
 
 - Industrial Organization
 - Structural modelling
