@@ -1,55 +1,33 @@
-![banner](https://user-images.githubusercontent.com/49168245/182652219-4bca2f14-43ee-4986-9972-985438654198.png)
 ## Ph.D. candidate in Applied Economics at the University of Minnesota 
 
-# My research focuses on:
+Welcome to my profile! I'm currently pursuing my Ph.D. in Applied Economics at the University of Minnesota. I'm passionate about researching how policy changes affect childcare labor markets and the role minimum wages play in the childcare industry. 
 
-- How policy changes in childcare affect childcare labor markets
-- What roles play minimum wages in the childcare market
+### :mag_right: Research Interests
 
-# I'm insterested in:
+I'm interested in causal inference, econometrics, economic modeling, and machine learning. I believe that combining these fields can lead to powerful insights into economic phenomena.
 
-- Causal inference
-- Econometrics
-- Economic modeling
-- Machine Learning
+### :books: Learning
 
-# Learning:
+I'm always looking to expand my knowledge in different areas of economics. Currently, I'm diving into Industrial Organization and Structural Modeling. I believe that understanding different fields within economics can help me to approach problems from different angles and provide more robust solutions.
 
-- Industrial Organization
-- Structural modelling
+### :computer: Work Experience
 
-# Currently:
+I'm currently a Graduate Research Assistant for Elizabeth Davis (University of Minnesota) and Aaron Sojourner (UPJOHN Institute). Through this experience, I've had the opportunity to work on projects that have real-world impacts.
 
-Graduate research assistant for Elizabeth Davis (University of Minnesota) and Aaron Sojourner (UPJOHN Institute)
+### :mailbox: Contact me
 
-# Contact me:
+If you have any questions, feel free to contact me at rodrigofranco@rodrigofrancor.com. I'm always open to connecting with new people and learning about their experiences.
 
-rodrigofranco@rodrigofrancor.com
+### :fire: My Stats
 
-# Website: 
-
-www.rodrigofrancor.com
-
----
-
-### :fire: My Stats :
+Want to see my contributions on GitHub? Check out my stats below! 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=franc703&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franc703&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### :zap: Fun Fact
 
-<!--
-**franc703/franc703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I'm not busy with research, I enjoy nerding out with multiplayer video games, and reading for fun. Did you know that I'm fluent in three languages? Most are programming languages :) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Don't hesitate to reach out to me if you're interested in collaborating or just want to chat about economics or anything else. Thanks for stopping by!
